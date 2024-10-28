@@ -1,0 +1,37 @@
+#: locale=ru
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = Создаем виртуальные туры: 3dpanorama.spb.ru
+
+## VR Menu
+
+### Text
+MenuItem_A92DF125_BDE7_E5EF_41DA_BC9C0CA5440C.label = 1
+MenuItem_A92DD125_BDE7_E5EF_41E2_5330695A1FC3.label = 2
+MenuItem_A92DC125_BDE7_E5EF_41C8_840DE5474275.label = 3
+Menu_4F4AC447_4548_75D5_41BC_1A567C547CB0.label = Media
+
+## Медиа
+
+### Заголовок
+panorama_DDF0A71C_D326_27F7_41C1_F33100D82A68.label = 1
+panorama_DC578620_D32A_39CF_41BF_3B39CC6D9057.label = 2
+panorama_DE44D2D6_D326_FE73_41E9_F45351F36933.label = 3
+
+## Скин
+
+### Image
+Image_4D814365_6DA7_9B6B_41C9_F0948222EC93_mobile.url = skin/Image_4D814365_6DA7_9B6B_41C9_F0948222EC93_mobile_ru.png
+Image_4D814365_6DA7_9B6B_41C9_F0948222EC93.url = skin/Image_4D814365_6DA7_9B6B_41C9_F0948222EC93_ru.png
+Image_791C96B5_6D5C_9DEB_41D3_A45DCA34CDF5_mobile.url = skin/Image_791C96B5_6D5C_9DEB_41D3_A45DCA34CDF5_mobile_ru.gif
+Image_791C96B5_6D5C_9DEB_41D3_A45DCA34CDF5.url = skin/Image_791C96B5_6D5C_9DEB_41D3_A45DCA34CDF5_ru.gif
+
+## Тур
+
+### Заголовок
+tour.name = Виртуальный тур
+
+### Описание
+tour.description = 3д тур по теплоходу
